@@ -88,6 +88,18 @@ The AttCNN model shows promising results compared to traditional machine learnin
 | SVM                             | 0.8945   | 0.9028   | 0.9222    | 0.8670 |
 | AttCNN (Proposed Model)         | 0.9907   | 0.9909   | 0.9906    | 0.9909 |
 
+## Cite This Paper
+```bibtex
+@inproceedings{cruze2024unveiling,
+  title={Unveiling Fake News with an Attention-Based CNN Model Using Hybrid Features},
+  author={Cruze, Francis Rudra D and Hosen, Md Faruk and Ali, Md Suhag and Mollah, Mohammad Sarwar Hossain and Uddin, Muhammad Shahin and Morshed, Monir},
+  booktitle={2024 2nd International Conference on Information and Communication Technology (ICICT)},
+  pages={41--45},
+  year={2024},
+  organization={IEEE}
+}
+```
+
 ## Conclusion
 
 The proposed AttCNN model demonstrates superior performance in detecting fake news compared to traditional machine learning classifiers and existing state-of-the-art methods. The hybrid feature extraction approach combining CV, TF-IDF, and Word2Vec significantly enhances the model's predictive capabilities. The attention mechanism further improves the model's interpretability and feature selection, making it a robust solution for fake news detection.
